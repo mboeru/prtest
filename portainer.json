@@ -5,7 +5,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/htpcmanager-icon.png",
         "image": "linuxserver/htpcmanager:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Video",
             "MediaApp:Music",
             "MediaApp:Other"
@@ -35,7 +35,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/maraschino-icon.png",
         "image": "linuxserver/maraschino:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Video",
             "MediaApp:Music",
             "MediaApp:Other"
@@ -65,7 +65,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/jacket-icon.png",
         "image": "linuxserver/jackett:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "Tools:"
         ],
@@ -95,7 +95,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/booksonic.png",
         "image": "linuxserver/booksonic:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Books",
             "MediaApp:Other",
             "MediaServer:Books",
@@ -134,7 +134,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/smokeping-icon.png",
         "image": "linuxserver/smokeping:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Management"
         ],
         "ports": [
@@ -163,7 +163,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/duckdns.png",
         "image": "linuxserver/duckdns:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:DNS",
             "Tools:"
         ],
@@ -197,7 +197,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/plexpy-icon.png",
         "image": "linuxserver/plexpy:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Other",
             "Tools:"
         ],
@@ -227,7 +227,7 @@
         "logo": "https://github.com/domoticz/domoticz/raw/master/www/images/logo.png",
         "image": "linuxserver/domoticz:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "HomeAutomation:",
             "Network:Management"
         ],
@@ -258,7 +258,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/transmission-icon.png",
         "image": "linuxserver/transmission:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "ports": [
@@ -289,7 +289,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libresonic.png",
         "image": "linuxserver/libresonic:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Music",
             "MediaServer:Music",
             "Status:Stable"
@@ -328,7 +328,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sickrage-icon.png",
         "image": "linuxserver/sickrage:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video"
         ],
@@ -359,7 +359,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/musicbrainz-icon.png",
         "image": "linuxserver/musicbrainz:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Music",
             "Other:",
             "Tools:"
@@ -395,7 +395,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/quassel-core-icon.png",
         "image": "linuxserver/quassel-core:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Messenger"
         ],
         "ports": [
@@ -423,7 +423,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/photoshow-icon.png",
         "image": "linuxserver/photoshow:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Photos"
         ],
         "ports": [
@@ -453,7 +453,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/daapd-icon.png",
         "image": "linuxserver/daapd:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Music",
             "MediaServer:Music"
         ],
@@ -484,7 +484,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mysql-icon.png",
         "image": "linuxserver/mysql:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other",
             "MediaApp:Other",
             "Other:",
@@ -520,7 +520,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/codiad-icon.png",
         "image": "linuxserver/codiad:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Productivity"
         ],
         "ports": [
@@ -548,7 +548,7 @@
         "logo": "http://i.imgur.com/8LadrLg.png",
         "image": "linuxserver/oscam:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Other"
         ],
         "ports": [
@@ -577,7 +577,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kodi-icon.png",
         "image": "linuxserver/kodi-headless:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Video"
         ],
         "ports": [
@@ -606,7 +606,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/pydio-icon.png",
         "image": "linuxserver/pydio:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "Network:Other"
         ],
@@ -636,7 +636,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sabnzbd-icon.png",
         "image": "linuxserver/sabnzbd:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "ports": [
@@ -667,7 +667,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/teamspeak-icon.png",
         "image": "linuxserver/gsm-ts3:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Voip"
         ],
         "ports": [
@@ -698,7 +698,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/medusa-icon.png",
         "image": "linuxserver/medusa:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video",
             "Status:Stable"
@@ -730,7 +730,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/syncthing-icon.png",
         "image": "linuxserver/syncthing:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Backup:",
             "Cloud:",
             "Network:Other",
@@ -764,7 +764,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/muximux-icon.png",
         "image": "linuxserver/muximux:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Web",
             "Network:Proxy",
             "Network:Other",
@@ -795,7 +795,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/beets-icon.png",
         "image": "linuxserver/beets:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Music"
         ],
         "ports": [
@@ -825,7 +825,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/plexrequests-icon.png",
         "image": "linuxserver/plexrequests:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "Network:Other",
             "MediaApp:Video",
@@ -862,7 +862,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mariadb-icon.png",
         "image": "linuxserver/mariadb:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other",
             "MediaApp:Other",
             "Other:",
@@ -898,7 +898,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/znc-icon.png",
         "image": "linuxserver/znc:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Messenger"
         ],
         "ports": [
@@ -926,7 +926,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/cops-icon.png",
         "image": "linuxserver/cops:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "MediaApp:Books",
             "MediaServer:Books"
@@ -957,7 +957,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/community-templates/master/lsiocommunity/img/shout-icon.png",
         "image": "linuxserver/thelounge:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Messenger"
         ],
         "ports": [
@@ -985,7 +985,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nzbget-icon.png",
         "image": "linuxserver/nzbget:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "ports": [
@@ -1014,7 +1014,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ombi.png",
         "image": "linuxserver/ombi:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "Network:Other",
             "MediaApp:Video",
@@ -1045,7 +1045,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/h5ai/linuxserver.io/img/lychee-icon.png",
         "image": "linuxserver/lychee:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "Network:Web",
             "Network:Management",
@@ -1078,7 +1078,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/deluge-icon.png",
         "image": "linuxserver/deluge:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "volumes": [
@@ -1109,7 +1109,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nginx-icon.png",
         "image": "linuxserver/nginx:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Web",
             "Network:Proxy"
         ],
@@ -1139,7 +1139,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/cardigan.png",
         "image": "linuxserver/cardigann:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "ports": [
@@ -1167,7 +1167,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/unifi-icon.png",
         "image": "linuxserver/unifi:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Management",
             "Tools:"
         ],
@@ -1200,7 +1200,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/plex-icon.png",
         "image": "linuxserver/plex:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Video",
             "MediaServer:Music",
             "MediaServer:Photos"
@@ -1232,7 +1232,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/hydra-icon.png",
         "image": "linuxserver/hydra:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Other",
             "Tools:"
@@ -1263,7 +1263,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/headphones-icon.png",
         "image": "linuxserver/headphones:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Music"
         ],
         "ports": [
@@ -1293,7 +1293,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/couchpotato-icon.png",
         "image": "linuxserver/couchpotato:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video"
         ],
@@ -1324,7 +1324,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/davos.png",
         "image": "linuxserver/davos:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:FTP",
             "Network:Other",
             "Tools:"
@@ -1355,7 +1355,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/tt-rss-icon.png",
         "image": "linuxserver/tt-rss:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other"
         ],
         "ports": [
@@ -1383,7 +1383,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/freshrss-icon.png",
         "image": "linuxserver/freshrss:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other",
             "Other:"
         ],
@@ -1412,7 +1412,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mcmyadmin-icon.png",
         "image": "linuxserver/mcmyadmin2:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other",
             "Other:"
         ],
@@ -1442,7 +1442,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/openvpn-as-icon.png",
         "image": "linuxserver/openvpn-as:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other"
         ],
         "ports": [
@@ -1472,7 +1472,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mylar-icon.png",
         "image": "linuxserver/mylar:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Books"
         ],
@@ -1503,7 +1503,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/projectsend-logo.png",
         "image": "linuxserver/projectsend:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "Productivity:",
             "Tools:",
@@ -1536,7 +1536,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/minetest-icon.png",
         "image": "linuxserver/minetest:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Other",
             "Other:"
         ],
@@ -1565,7 +1565,7 @@
         "logo": "http://i.imgur.com/zGSUAT4.png",
         "image": "linuxserver/tvheadend:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Video",
             "MediaServer:Other"
         ],
@@ -1596,7 +1596,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/duplicati-icon.png",
         "image": "linuxserver/duplicati:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Backup:",
             "Cloud:",
             "Network:Other",
@@ -1631,7 +1631,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/resilio.png",
         "image": "linuxserver/resilio-sync:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Backup:",
             "Cloud:",
             "Network:Other",
@@ -1664,7 +1664,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/radarr.png",
         "image": "linuxserver/radarr:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video",
             "Status:Beta"
@@ -1696,7 +1696,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/piwigo-icon.png",
         "image": "linuxserver/piwigo:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Photos"
         ],
         "ports": [
@@ -1724,7 +1724,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ubooquity-icon.png",
         "image": "linuxserver/ubooquity:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "MediaApp:Books",
             "MediaServer:Books"
@@ -1761,7 +1761,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/lazylibrarian-icon.png",
         "image": "linuxserver/lazylibrarian:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaApp:Books"
         ],
         "ports": [
@@ -1791,7 +1791,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/letsencrypt.png",
         "image": "linuxserver/letsencrypt:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Tools:",
             "Network:Web",
             "Status:Stable"
@@ -1847,7 +1847,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sickbeard-icon.png",
         "image": "linuxserver/sickbeard:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video"
         ],
@@ -1878,7 +1878,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sonarr-icon.png",
         "image": "linuxserver/sonarr:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:",
             "MediaApp:Video"
         ],
@@ -1910,7 +1910,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/apacheweb-icon.png",
         "image": "linuxserver/apache:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Network:Web",
             "Network:Proxy"
         ],
@@ -1940,7 +1940,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/rutorrent-icon.png",
         "image": "linuxserver/rutorrent:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Downloaders:"
         ],
         "ports": [
@@ -1971,7 +1971,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png",
         "image": "linuxserver/nextcloud:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "Cloud:",
             "Productivity:",
             "Tools:",
@@ -2005,7 +2005,7 @@
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/minisatip-icon.png",
         "image": "linuxserver/minisatip:latest",
 	"platform": "linux",
-        "category": [
+        "categories": [
             "MediaServer:Video",
             "MediaServer:Other",
             "Other:",
