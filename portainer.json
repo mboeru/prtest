@@ -2033,7 +2033,7 @@
                 "set": ""
             }
         ]
-    }
+    },
   {
     "title": "Registry",
     "description": "Docker image registry",
