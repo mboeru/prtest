@@ -22,12 +22,12 @@
             {
                 "name": "PUID",
                 "label": "PUID",
-                "set": "9870"
+                "set": ""
             },
             {
                 "name": "PGID",
                 "label": "PGID",
-                "set": "9870"
+                "set": ""
             }
         ]
     },
@@ -54,12 +54,12 @@
             {
                 "name": "PGID",
                 "label": "PGID",
-                "set": "9870"
+                "set": ""
             },
             {
                 "name": "PUID",
                 "label": "PUID",
-                "set": "9870"
+                "set": ""
             }
         ]
     },
