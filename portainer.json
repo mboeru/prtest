@@ -1821,17 +1821,17 @@
             {
                 "name": "SUBDOMAINS",
                 "label": "SUBDOMAINS",
-                "set": "www,"
+                "set": ","
             },
             {
                 "name": "ONLY_SUBDOMAINS",
                 "label": "ONLY_SUBDOMAINS",
-                "set": "false"
+                "set": ""
             },
             {
                 "name": "DHLEVEL",
                 "label": "DHLEVEL",
-                "set": "2048"
+                "set": ""
             },
             {
                 "name": "PUID",
