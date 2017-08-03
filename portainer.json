@@ -1821,7 +1821,7 @@
             {
                 "name": "SUBDOMAINS",
                 "label": "SUBDOMAINS",
-                "set": ","
+                "set": ""
             },
             {
                 "name": "ONLY_SUBDOMAINS",
