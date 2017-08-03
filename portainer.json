@@ -1829,6 +1829,11 @@
                 "set": ""
             },
             {
+                "name": "EXTRA_DOMAINS",
+                "label": "EXTRA_DOMAINS",
+                "set": ""
+            },
+            {
                 "name": "DHLEVEL",
                 "label": "DHLEVEL",
                 "set": ""
