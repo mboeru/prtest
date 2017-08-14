@@ -64,6 +64,23 @@
         ]
     },
     {
+        "title": "statsfeeder",
+        "description": "simple, modular python app to send different values into Graphite",
+        "logo": "",
+        "image": "mboeru/statsfeeder:1.0",
+	"platform": "linux",
+        "categories": [
+            "Monitoring:stats",
+        ],
+        "ports": [
+        ],
+        "volumes": [
+            "/config"
+        ],
+        "env": [
+        ]
+    },
+    {
         "title": "htpcmanager",
         "description": "Htpcmanager, a front end for many htpc related applications. Hellowlol version.",
         "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/htpcmanager-icon.png",
