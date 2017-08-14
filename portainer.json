@@ -70,7 +70,7 @@
         "image": "mboeru/statsfeeder:1.0",
 	"platform": "linux",
         "categories": [
-            "Monitoring:stats",
+            "Monitoring:stats"
         ],
         "ports": [
         ],
